@@ -1,1 +1,15 @@
-# powerbi-gps-load-monitoring
+# Power BI GPS Load Monitoring
+
+Files:
+- **Power BI report:** `gps_report.pbix`
+
+## Preview
+![01](01.png)
+![02](02.png)
+![03](03.png)
+![04](04.png)
+![05](05.png)
+![06](06.png)
+![07](07.png)
+![08](08.png)
+![09](09.png)
